@@ -1,16 +1,30 @@
-## Hi there 👋
+# 3M3RY
+### `0xhyprlarp` | Developer, Tinkerer, Linux Enjoyer
 
-<!--
-**0xhyprlarp/0xhyprlarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub. I'm a developer with a focus on system configuration, hardware tweaking, and security. I use Arch btw (with Hyprland and Waybar), and I write my code in Neovim. 
 
-Here are some ideas to get you started:
+## 🔭 Current Focus
+*   **Dotfiles & Automation:** Fine-tuning my Hyprland, Waybar, and Neovim setups, and writing a Bash script for automated system deployment.
+*   **Hardware:** Tinkering with ESP32 microcontrollers.
+*   **Infrastructure:** Building and setting up a private home server.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Learning
+*   Diving deep into **Core Cybersecurity** and **Operating System** internals.
+*   *On the horizon:* Planning to pick up **Rust** and **AI** to keep pace with the modern tech landscape.
+
+## 🛠️ Tech Stack & Skills
+*   **Systems & Environment:** Arch Linux, Hyprland, Waybar, Neovim, Bash
+*   **Languages:** C, C++, Python, Lua, C#, basic x86 Assembly, HTML & CSS
+*   **Game Development:** GDScript (Godot), LÖVE, C#
+*   **Security & Hardware:** Basic Pentesting, Reverse Engineering, Electronics tweaking
+
+## ⚡ Beyond the Terminal
+When I'm not writing code or configuring my system, I'm usually:
+*   🎤 Singing metal, practicing growls, and messing around with DAWs.
+*   ☕ Brewing high-quality coffee (dialing in espresso, pourovers, cold brews, and mixing coffee mocktails).
+*   🎮 Gaming (modern PC and retro titles) or playing Magic: The Gathering.
+*   📺 Enjoying anime and cosplaying.
+
+## 📫 Let's Connect
+*   **Email:** [em3ryriviere@gmail.com](mailto:em3ryriviere@gmail.com)
+*   *Other socials coming soon.*
