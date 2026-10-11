@@ -4,7 +4,7 @@
 Welcome to my corner of GitHub. I'm a developer with a focus on system configuration, hardware tweaking, and security. I use Arch btw (with Hyprland and Waybar), and I write my code in Neovim. 
 
 ## 🔭 Current Focus
-*   **Dotfiles & Automation:** Fine-tuning my Hyprland, Waybar, and Neovim setups, and writing a Bash script for automated system deployment.
+*   **Lua Game Dev and Raycasting:** Inspired by DOOM, Im planning to try Raycasting in lua and make a simple but nice game out of it. 
 *   **Hardware:** Tinkering with ESP32 microcontrollers.
 *   **Infrastructure:** Building and setting up a private home server.
 
