@@ -10,7 +10,7 @@ Welcome to my corner of GitHub. I'm a developer with a focus on system configura
 
 ## 🌱 What I'm Learning
 *   Diving deep into **Core Cybersecurity** and **Operating System** internals.
-*   *On the horizon:* Planning to pick up **Rust** and **AI** to keep pace with the modern tech landscape.
+*   *On the horizon:* Planning to pick up **Rust**, **Assembly** and **AI** to keep pace with the modern tech landscape.
 
 ## 🛠️ Tech Stack & Skills
 *   **Systems & Environment:** Arch Linux, Hyprland, Waybar, Neovim, Bash
