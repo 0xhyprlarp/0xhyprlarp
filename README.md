@@ -6,6 +6,7 @@ Welcome to my corner of GitHub. I'm a developer with a focus on system configura
 ## 🔭 Current Focus
 *   **Lua Game Dev and Raycasting:** Inspired by DOOM, Im planning to try Raycasting in lua and make a simple but nice game out of it. 
 *   **Hardware:** Tinkering with ESP32 microcontrollers.
+*   **Jeopardy software:** Making a software to run fun jeopardies.
 *   **Infrastructure:** Building and setting up a private home server.
 
 ## 🌱 What I'm Learning
